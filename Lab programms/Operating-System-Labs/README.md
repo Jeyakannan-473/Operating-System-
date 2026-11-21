@@ -14,3 +14,13 @@
 | [Lab-08](Lab-08) | Construct a C program to simulate Round Robin scheduling algorithm with C. |
 | [Lab-09](Lab-09) | Illustrate the concept of inter-process communication using shared memory with a C program. |
 | [Lab-10](Lab-10) | Illustrate the concept of inter-process communication using message queue with a C program. |
+| [Lab-11](Lab-11) | Illustrate the concept of multithreading using a C program. |
+| [Lab-12](Lab-12) | Design a C program to simulate the concept of Dining-Philosophers problem. |
+| [Lab-13](Lab-13) | Construct a C program for implementation of the various memory allocation strategies. |
+| [Lab-14](Lab-14) | Construct a C program to organise the file using a single level directory. |
+| [Lab-15](Lab-15) | Design a C program to organise the file using a two level directory structure. |
+| [Lab-16](Lab-16) | Develop a C program for implementing random access file for processing the employee details. |
+| [Lab-17](Lab-17) | Illustrate the deadlock avoidance concept by simulating Banker's algorithm with C. |
+| [Lab-18](Lab-18) | Construct a C program to simulate producer-consumer problem using semaphores. |
+| [Lab-19](Lab-19) | Design a C program to implement process synchronization using mutex locks. |
+| [Lab-20](Lab-20) | Construct a C program to simulate Reader-Writer problem using Semaphores. |
