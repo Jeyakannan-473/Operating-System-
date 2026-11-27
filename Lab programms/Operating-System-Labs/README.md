@@ -24,3 +24,13 @@
 | [Lab-18](Lab-18) | Construct a C program to simulate producer-consumer problem using semaphores. |
 | [Lab-19](Lab-19) | Design a C program to implement process synchronization using mutex locks. |
 | [Lab-20](Lab-20) | Construct a C program to simulate Reader-Writer problem using Semaphores. |
+| [Lab-21](Lab-21) | Develop a C program to implement worst fit algorithm of memory management. |
+| [Lab-22](Lab-22) | Construct a C program to implement best fit algorithm of memory management. |
+| [Lab-23](Lab-23) | Construct a C program to implement first fit algorithm of memory management. |
+| [Lab-24](Lab-24) | Design a C program to demonstrate UNIX system calls for file management. |
+| [Lab-25](Lab-25) | Construct a C program to implement the I/O system calls of UNIX (fcntl, seek, stat, opendir, readdir). |
+| [Lab-26](Lab-26) | Construct a C program to implement the file management operations. |
+| [Lab-27](Lab-27) | Develop a C program for simulating the function of ls UNIX Command. |
+| [Lab-28](Lab-28) | Write a C program for simulation of GREP UNIX command. |
+| [Lab-29](Lab-29) | Write a C program to simulate the solution of Classical Process Synchronization Problem. |
+| [Lab-30](Lab-30) | Write C programs to demonstrate the following thread related concepts: (i) create (ii) join (iii) equal (iv) exit. |
