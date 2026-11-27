@@ -34,3 +34,8 @@
 | [Lab-28](Lab-28) | Write a C program for simulation of GREP UNIX command. |
 | [Lab-29](Lab-29) | Write a C program to simulate the solution of Classical Process Synchronization Problem. |
 | [Lab-30](Lab-30) | Write C programs to demonstrate the following thread related concepts: (i) create (ii) join (iii) equal (iv) exit. |
+| [Lab-31](Lab-31) | Construct a C program to simulate the First in First Out paging technique of memory management. |
+| [Lab-32](Lab-32) | Construct a C program to simulate the Least Recently Used paging technique of memory management. |
+| [Lab-33](Lab-33) | Construct a C program to simulate the optimal paging technique of memory management. |
+| [Lab-34](Lab-34) | Consider a file system where the records of the file are stored one after another both physically and logically. A record of the file can only be accessed by reading all the previous records. Design a C program to simulate the file allocation strategy. |
+| [Lab-35](Lab-35) | Consider a file system that brings all the file pointers together into an index block. The ith entry in the index block points to the ith block of the file. Design a C program to simulate the file allocation strategy. |
