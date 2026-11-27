@@ -39,3 +39,8 @@
 | [Lab-33](Lab-33) | Construct a C program to simulate the optimal paging technique of memory management. |
 | [Lab-34](Lab-34) | Consider a file system where the records of the file are stored one after another both physically and logically. A record of the file can only be accessed by reading all the previous records. Design a C program to simulate the file allocation strategy. |
 | [Lab-35](Lab-35) | Consider a file system that brings all the file pointers together into an index block. The ith entry in the index block points to the ith block of the file. Design a C program to simulate the file allocation strategy. |
+| [Lab-36](Lab-36) | With linked allocation, each file is a linked list of disk blocks; the disk blocks may be scattered anywhere on the disk. The directory contains a pointer to the first and last blocks of the file. Each block contains a pointer to the next block. Design a C program to simulate the file allocation strategy. |
+| [Lab-37](Lab-37) | Construct a C program to simulate the First Come First Served disk scheduling algorithm. |
+| [Lab-38](Lab-38) | Design a C program to simulate SCAN disk scheduling algorithm. |
+| [Lab-39](Lab-39) | Develop a C program to simulate C-SCAN disk scheduling algorithm. |
+| [Lab-40](Lab-40) | Illustrate the various File Access Permission and different types of users in Linux. |
